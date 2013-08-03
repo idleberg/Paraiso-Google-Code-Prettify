@@ -6,7 +6,7 @@ A color scheme inspired by the colorful illustrations by Brazilian artist [Ruben
 
 ## Installation
 
-1. Setup [Google Prettify][3]
+1. Setup [Google Code Prettify][3]
 2. Download a `.css` file of choise
 3. Replace `prettify.js` with the downloaded file
 
